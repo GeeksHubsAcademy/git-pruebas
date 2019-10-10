@@ -16,3 +16,6 @@ document.querySelector( '.buscarCancion' ).addEventListener( 'submit', function 
             }
         } )
 } )
+function saludo(){
+    console.log("Hola chavales");
+}
